@@ -1,1 +1,10 @@
-# Gitignore
+# Gitignore - C
+
+# Ignore by File Extensions
+*.exe
+*.o
+*.out
+*.x
+
+# Ignore by Folder names
+.vscode/
