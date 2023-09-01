@@ -1,1 +1,10 @@
-# Gitignore
+# Gitignore - C++
+
+# Ignore files by extensions
+*.exe
+*.o
+*.out
+*.x
+
+# Ignore folders by name
+.vscode/
