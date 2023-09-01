@@ -1,1 +1,10 @@
-# Gitignore
+# Gitignore - Fortran90
+
+# Ignore files by extensions
+*.exe
+*.o
+*.out
+*.x
+
+# Ignore folders by names
+.vscode/
