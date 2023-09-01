@@ -1,1 +1,12 @@
-# Gitignore
+# Gitignore - Python
+
+# Ignore files by extensions
+
+
+# Ignore folders by names
+.vscode/
+.__pycache__/
+.env/
+.venv/
+venv/
+env/
