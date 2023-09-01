@@ -1,1 +1,12 @@
-# Gitignore
+# Gitignore - master
+
+# Ignoring files by extensions
+*.exe
+*.x
+*.out
+*.o
+
+# Ignoring folders by names
+images/
+.vscode/
+__pycache__/
